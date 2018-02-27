@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutOfDungeon.Plugins", "OutOfDungeon.Plugins.csproj", "{6B6B9CD2-E03D-2071-2CE8-640E40B29579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutOfDungeon", "OutOfDungeon.csproj", "{8228975D-AAEE-9EB3-42A3-5694022BF066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutOfDungeon.Editor.Plugins", "OutOfDungeon.Editor.Plugins.csproj", "{AFE2C90D-9022-C5BF-CB3B-0D186C367070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutOfDungeon.Editor", "OutOfDungeon.Editor.csproj", "{E3AF2EDD-9512-5378-01DC-3C51F8259FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6B9CD2-E03D-2071-2CE8-640E40B29579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6B9CD2-E03D-2071-2CE8-640E40B29579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6B9CD2-E03D-2071-2CE8-640E40B29579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6B9CD2-E03D-2071-2CE8-640E40B29579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8228975D-AAEE-9EB3-42A3-5694022BF066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8228975D-AAEE-9EB3-42A3-5694022BF066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8228975D-AAEE-9EB3-42A3-5694022BF066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8228975D-AAEE-9EB3-42A3-5694022BF066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE2C90D-9022-C5BF-CB3B-0D186C367070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE2C90D-9022-C5BF-CB3B-0D186C367070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE2C90D-9022-C5BF-CB3B-0D186C367070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE2C90D-9022-C5BF-CB3B-0D186C367070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3AF2EDD-9512-5378-01DC-3C51F8259FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3AF2EDD-9512-5378-01DC-3C51F8259FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3AF2EDD-9512-5378-01DC-3C51F8259FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3AF2EDD-9512-5378-01DC-3C51F8259FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
